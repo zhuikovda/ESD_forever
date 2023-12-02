@@ -1,4 +1,4 @@
-import 'package:esd_corp/esd_main_screen/esd_main_screen.dart';
+import 'package:esd/esd_main_screen/esd_main_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
